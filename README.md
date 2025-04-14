@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm [Nguyen Chi Tien]!</h1>
 
 <p align="center">
   🚀 Passionate Full-Stack Developer | ☕ Java Enthusiast | 🧠 Lifelong Learner
@@ -58,9 +58,8 @@
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📧 Email: your.email@example.com  
-- 🌐 Portfolio: your-portfolio-link.com
+- 🌐 Facebook: [facebook.com/your-profile](https://facebook.com/your-profile)
 
 ---
 
