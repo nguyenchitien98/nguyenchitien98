@@ -61,6 +61,15 @@
 
 - 📧 Email: tiennguyenchi98@gmail.com
 - 🌐 Facebook: https://www.facebook.com/tien.nguyenchi.399/
+  <p>
+  <a href="mailto:tiennguyenchi98@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="email icon" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/tien.nguyenchi.399/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook icon" />
+  </a>
+</p>
 
 ---
 
