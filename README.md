@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
@@ -61,15 +62,6 @@
 
 - 📧 Email: tiennguyenchi98@gmail.com
 - 🌐 Facebook: https://www.facebook.com/tien.nguyenchi.399/
-  <p>
-  <a href="tiennguyenchi98@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="email icon" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/tien.nguyenchi.399/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook icon" />
-  </a>
-</p>
 
 ---
 
