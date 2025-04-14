@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/develop/images/sonarlint-logo.png" height="30" />
+  <img src="https://camo.githubusercontent.com/c02347f4965ed10cc94671b0ccf3748f141fa3cf532ffe91f5069c810734a3f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6e61724c696e742d4342323032393f7374796c653d666f722d7468652d6261646765266c6f676f3d534f4e41524c494e54266c6f676f436f6c6f723d7768697465" height="30" />
   <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" height="30" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" />
 </p>
@@ -60,7 +60,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: tiennguyenchi98@gmail.com
-- 🌐 Facebook: [facebook.com/your-profile]([https://facebook.com/your-profile](https://www.facebook.com/tien.nguyenchi.399/))
+- 🌐 Facebook: https://www.facebook.com/tien.nguyenchi.399/
 
 ---
 
