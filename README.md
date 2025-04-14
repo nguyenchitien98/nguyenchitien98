@@ -24,9 +24,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" />
-  <img src="https://www.sonarsource.com/logos/sonarlint-logo.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/develop/images/sonarlint-logo.png" height="30" />
   <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" height="30" />
-  <img src="https://raw.githubusercontent.com/elastic/elasticsearch/main/docs/src/icons/favicon-32x32.png" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" />
 </p>
 
 ### 🌐 Frontend
@@ -37,7 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
   <img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg" height="30" />
-  <img src="https://tailwindcss.com/_next/static/media/mark.b4b06d30.svg" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" />
 </p>
 
 ### 🧰 Tools & Others
@@ -58,8 +59,8 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 🌐 Facebook: [facebook.com/your-profile](https://facebook.com/your-profile)
+- 📧 Email: tiennguyenchi98@gmail.com
+- 🌐 Facebook: [facebook.com/your-profile]([https://facebook.com/your-profile](https://www.facebook.com/tien.nguyenchi.399/))
 
 ---
 
