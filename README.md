@@ -52,7 +52,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchitien98&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 - 📧 Email: tiennguyenchi98@gmail.com
 - 🌐 Facebook: https://www.facebook.com/tien.nguyenchi.399/
   <p>
-  <a href="mailto:tiennguyenchi98@gmail.com">
+  <a href="tiennguyenchi98@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="email icon" />
   </a>
   &nbsp;&nbsp;
